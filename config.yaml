@@ -1,6 +1,6 @@
-baseURL: https://website-jianshun-heng.netlify.app/
+baseURL: https://marta-official-portfolio.netlify.app
 languageCode: en-us
-title: Jian Shun's website
+title: Marta's website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,7 +10,7 @@ params:
     subtitle: |-
       # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       # AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Jian Shun
+    title: Hi, my name is Marta
   blog: {}
   contact:
     address:
