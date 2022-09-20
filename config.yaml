@@ -58,14 +58,14 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/marta-wnek/
   image: ''
-  name: Jian Shun 
+  name: Marta 
   navigation:
-    # button1:
-    #   - name: Get Started
-    #     url: blogs
-    # button2:
-    #   - name: Log In
-    #     url: '#'
+    button1:
+      - name: Academic Transcript
+        url: transcript.pdf
+    button2:
+      - name: CV
+        url: resume.pdf
     links:
       - name: Home
         url: '#'
@@ -89,6 +89,10 @@ params:
         subtitle: hihi
         title: Skills
         url: blogs/skills
+        featuredLink:
+          enable: true
+          name: "CV"
+          url: /resume.pdf
       # - image: pic03.jpgs
       #   subtitle: Portfolio galore
       #   title: My Works
