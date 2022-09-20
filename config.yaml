@@ -14,19 +14,19 @@ params:
   blog: {}
   contact:
     address:
-      - city: London
+      - city: London, ST 00000
         country: United Kingdom
-        street: Brown St, London W1H 5UL
-        title: University of London, Nutford House
+        street: Lisson Street
+        title: Address
     buttonClear: Clear
     buttonSend: Send message    
     email:
-      - email: jheng.mam2023@london.edu
+      - email: martawnek24@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (+44) 078 5719 4914
-        title: Mobile Phone number
+      - phone: "7493403401"
+        title: Phone
   custom_css: []
   custom_js: []
   description: Your description
@@ -37,35 +37,35 @@ params:
   footer:
     copyright: London Business School
     enable: yes
-    #quicklinks:
-      #- alt: HTML5 UP
-        #text: 'Design: '
-        #url: https://www.html5up.net
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: https://www.html5up.net
     social:
-      #- icon: fa-twitter
-        #label: Twitter
-        #url: https://www.twitter.com
-      #- icon: fa-facebook
-        #label: Facebook
-        #url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com/gonewiththe_winds/
+    #  - icon: fa-twitter
+     #   label: Twitter
+      #  url: https://www.twitter.com
+    #  - icon: fa-facebook
+      #  label: Facebook
+       # url: https://www.facebook.com
+      #- icon: fa-instagram
+       # label: Instagram
+        #url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://github.com/jianshun-heng
+        url: https://github.com/marta-wnek
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com/in/heng-jian-shun/
+        url: https://www.linkedin.com/in/marta-wnek/
   image: ''
   name: Jian Shun 
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    # button1:
+    #   - name: Get Started
+    #     url: blogs
+    # button2:
+    #   - name: Log In
+    #     url: '#'
     links:
       - name: Home
         url: '#'
