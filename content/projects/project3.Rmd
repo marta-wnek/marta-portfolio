@@ -3,12 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: "Climate change and anomalies"
 draft: false
 image: pic10.jpg
 keywords: ""
 slug: ipsum
-title: Climate change and anomalies
+title: Ecosystem
 ---
 
 The following ***layout settings*** are made:

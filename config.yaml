@@ -8,8 +8,11 @@ params:
   banner:   
     buttonText: Get Started
     subtitle: |-
-      # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      # AND RELEASED UNDER THE CREATIVE COMMONS.
+      Passionate to decipher the future of businesses with use of Data Analytics.
+      
+      As Sir Churchill said: 
+      > The farther back you can look, the farther
+      forward you can see.
     title: Hi, my name is Marta
   blog: {}
   contact:
@@ -82,11 +85,11 @@ params:
     enable: yes
     showcase:
       - image: pic03.jpg
-        subtitle: HI
+        subtitle: How I got into Analytics
         title: My Journey
         url: blogs/journey
       - image: pic05.jpg
-        subtitle: hihi
+        subtitle: Me in a nutshell
         title: Skills
         url: blogs/skills
         featuredLink:
