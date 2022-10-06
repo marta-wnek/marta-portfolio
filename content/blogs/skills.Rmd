@@ -21,18 +21,31 @@ title: Me in a nutshell
 
 # Key Skills:
 **- IT:** 
-  -R 
-  -Python 
-  -VBA
-  -MySQL
-  -PowerBI
+
+  - R 
+  
+  - Python 
+  
+  - VBA
+  
+  - MySQL
+  
+  - PowerBI
+  
     
 **- Languages:** 
+
   -English (fluent)
+  
   -German (C1 level)
+  
   -Polish (native)
+  
   -French (intermediate)
+  
   -Russian (basic)
+  
   -Mandarin (basic)
+  
   -Spanish (basic)
     
